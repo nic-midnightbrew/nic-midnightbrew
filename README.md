@@ -7,10 +7,10 @@
 
 ----------------
 
-🚀 **Focado em:**
-* **JavaScript** (especialmente com **Node.js**)
+🚀 **Focada em:**
+* **Java**
 * Me aprofundar e explorar frameworks e bibliotecas para back-end
-* Começar meus estudos em Java
+* Começar meus estudos em back-end e SpringBoot
 
 **O que Busco:**
 
