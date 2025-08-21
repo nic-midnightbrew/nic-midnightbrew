@@ -1,6 +1,6 @@
 ## Olá, sou a Nicoly!👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=23&pause=1000&color=C01EFF&width=435&lines=Console.log('Hello%2C+World!'))](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C01EFF&width=435&lines=System.out.println(%22Hello%2C+World!%22))](https://git.io/typing-svg) 
 ----------------
 - Sou estudante de Análise e desenvolvimento de Sistemas
 - Futura desenvolvedora back-end
