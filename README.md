@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C01EFF&width=435&lines=System.out.println(%22Hello%2C+World!%22))](https://git.io/typing-svg) 
 ----------------
-- Estudante de ADS
+- Estudante de Ciência da Computação
 ----------------
 
 🚀
